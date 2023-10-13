@@ -41,7 +41,7 @@ body {
 /* common styles */
 img {
 	width: 100%;
-	clip-path: circle();
+	clip-path: circle(50%);
 	filter: grayscale(100%);
 }
 a {
