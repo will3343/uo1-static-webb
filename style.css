@@ -146,7 +146,7 @@ a {
 }
 .profile_name_lastName {
 	color: var(--primary-color);
-	font-weight: 1991;
+	font-weight: 1000;
 	font-size: clamp(2.5rem, 15vw, 7rem);
 	text-transform: uppercase;
 	display: block;
